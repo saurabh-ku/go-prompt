@@ -7,7 +7,7 @@ The intent is to show case that go can we used quite effectually to build CLI ap
 
 ## *Install*
 ```
-go build hello-world.go
+go build cmd/go-prompt/main.go
 ```
 
 ## *Run*
