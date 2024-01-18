@@ -11,4 +11,6 @@ go build hello-world.go
 ```
 
 ## *Run*
-`./main`
+```
+./main
+```
